@@ -49,8 +49,8 @@ The application retrieves relevant text chunks from uploaded PDF documents and u
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd rag_qa_system
+git clone https://github.com/Thunderboalt25/rag-chatbot-api.git
+cd rag-chatbot-api
 ```
 
 Create and activate a virtual environment.
