@@ -1,0 +1,32 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local vector database
+chroma_db/
+chroma_db_backup/
+chroma_db_backup_before_cleanup/
+
+# Logs and temporary files
+*.log
+.pytest_cache/
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+# User-uploaded documents
+documents/uploads/
